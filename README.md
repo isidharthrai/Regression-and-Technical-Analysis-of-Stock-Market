@@ -1,2 +1,2 @@
-# Technical-and-Regression-Analysis-of-Stock-Market
-Technical and Regression Analysis of Stock Market
+#Stock Price - Technical Analysis and Regression Analysis
+Stock Price - Technical Analysis and Regression Analysis
