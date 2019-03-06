@@ -1,0 +1,5 @@
+SVM Score:  0.7368421052631579
+RandomForest Score:  0.2135306750949345
+Ridge Regression Score:  0.46499606061124205
+Lasso Regression Score:  0.09266404359900182
+Logistic Regression Score:  0.8421052631578947
